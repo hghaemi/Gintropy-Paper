@@ -10,6 +10,8 @@ This repository contains the implementation and analysis of the concepts present
 2. **Gintropy-Report.ipynb**
    - Provides a detailed report summarizing the formulas and applying them to a series of graph structures.
    - Includes analyses and results that demonstrate the utility of Gintropy in graph-based contexts.
+   
+Additionally, the full paper **Gintropy.pdf** is included in the repository for reference.
 
 ---
 
@@ -20,6 +22,7 @@ This repository contains the implementation and analysis of the concepts present
 |-- Gintropy.ipynb             # Implementation of formulas and figures.
 |-- Gintropy-Report.ipynb      # Analytical report and graph-based applications.
 |-- README.md                  # Project documentation.
+|-- Gintropy.pdf               # The full paper "Gintropy: Gini Index Based Generalization of Entropy." 
 |-- data/                      # (Optional) Directory for any sample datasets.
 |-- graph_images/              # Directory to save generated graph images.
 ```
@@ -88,4 +91,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For questions or feedback, please contact [h.ghaemi.2003@gmail.com].
-
